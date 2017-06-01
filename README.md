@@ -3,7 +3,7 @@ Self playing piano on virtualpiano.net
 Inspired by Westworld TV show (https://www.youtube.com/watch?v=D8eCRepopAc)
 This code is under MIT license.
 
-## Click on image to watch it
+## Click on the image to watch it
 [![Play It](https://assets3.thrillist.com/v1/image/1808058/size/tmg-facebook_social.jpg)](https://www.youtube.com/watch?v=LqMsGQnSHh8)
 
 ## Installation
